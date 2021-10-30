@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wesley-Nilton
 - 👀 I’m interested in back-end
-- 🌱 I’m currently learning  HTML5 is CSS3
+- 🌱 I’m currently learning  HTML5 and CSS3
 - 📫 How to reach me discord Sky#3148
 
 <!---
