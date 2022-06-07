@@ -8,8 +8,9 @@
 
 <div align="center">
   <a href="https://github.com/Wesley-Nilton">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Wesley-Nilton&show_icons=true&theme=github_dark&bg_color=000&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Nilton&layout=compact&langs_count=7&theme=github_dark&bg_color=000"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Wesley-Nilton&show_icons=true&theme=github_dark&bg_color=000&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Nilton&layout=compact&langs_count=7&theme=github_dark&bg_color=000"/>
+  </a>
 </div>
   
 <br>
@@ -28,7 +29,7 @@
   
 <div> 
   <a href="https://github.com/Wesley-Nilton" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wesley-nilton-8b5262224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/wesley-nilton-8b5262224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/Wesley-Nilton/Wesley-Nilton/blob/output/github-contribution-grid-snake.svg)
