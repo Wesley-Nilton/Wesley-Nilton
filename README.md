@@ -1,7 +1,7 @@
 # Olá, mundo! Eu sou Wesley Nilton 👋
 
 • 🔥 **Desenvolvedor Front-end**<br>
-• 👨‍💻 Atualmente estudando **HTML5**, **CSS3** e **JavaScript**<br>
+• 👨‍💻 Atualmente estudando **HTML5**, **CSS3**, **JavaScript** e **ReactJS**<br>
 • ✨ Interessado em me tornar um **Desenvolvedor Full-stack**
 
 <br>
